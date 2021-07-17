@@ -14,3 +14,4 @@ Many times manually attendance marking by the teacher calling every student's na
 ![image](https://user-images.githubusercontent.com/64465272/126047705-f8f77209-5aec-4322-ad1d-ee49f2790b2f.png)
 ![image](https://user-images.githubusercontent.com/64465272/126047726-4e818894-84b5-4a8a-81d5-2f87cd2b7263.png)
 ![image](https://user-images.githubusercontent.com/64465272/126047742-d847aec8-409d-41d9-b1dc-838dffd49bc9.png)
+![image](https://user-images.githubusercontent.com/64465272/126047758-42d8f310-691b-491e-b6d2-52665c511026.png)
